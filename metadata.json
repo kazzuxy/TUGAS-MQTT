@@ -1,0 +1,6 @@
+{
+  "name": "IoT Multi-Broker Dashboard",
+  "description": "Sistem Kendali dan Pemantauan Sensor IoT Multi-Broker terintegrasi Perintah Suara dan Animasi 3D",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
